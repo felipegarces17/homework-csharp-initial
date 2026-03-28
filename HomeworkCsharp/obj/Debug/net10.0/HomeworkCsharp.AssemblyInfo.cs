@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeworkCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+112d1de4afff3aa89c7d42194f5beb1ef2b374ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b9d50dcad4cd635163a8ef3c767802f41a4d2bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeworkCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeworkCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
