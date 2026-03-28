@@ -1,0 +1,15 @@
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/bin/Debug/net10.0/HomeworkCsharp
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/bin/Debug/net10.0/HomeworkCsharp.deps.json
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/bin/Debug/net10.0/HomeworkCsharp.runtimeconfig.json
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/bin/Debug/net10.0/HomeworkCsharp.dll
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/bin/Debug/net10.0/HomeworkCsharp.pdb
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/obj/Debug/net10.0/HomeworkCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/obj/Debug/net10.0/HomeworkCsharp.AssemblyInfoInputs.cache
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/obj/Debug/net10.0/HomeworkCsharp.AssemblyInfo.cs
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/obj/Debug/net10.0/HomeworkCsharp.csproj.CoreCompileInputs.cache
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/obj/Debug/net10.0/HomeworkCsharp.sourcelink.json
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/obj/Debug/net10.0/HomeworkCsharp.dll
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/obj/Debug/net10.0/refint/HomeworkCsharp.dll
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/obj/Debug/net10.0/HomeworkCsharp.pdb
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/obj/Debug/net10.0/HomeworkCsharp.genruntimeconfig.cache
+/Users/felipegarces/Desktop/Proyecto Optativa/homework-csharp-initial/HomeworkCsharp/obj/Debug/net10.0/ref/HomeworkCsharp.dll
